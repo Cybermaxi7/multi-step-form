@@ -4,6 +4,6 @@
 
 @layer components {
     .text-input {
-        @apply w-full block rounded border-2 border-gray-300 focus:outline-yellow-400 focus:ring-0 p-1;
+        @apply w-full outline-yellow-500 block rounded border-2 border-gray-300 focus:outline-yellow-400 focus:ring-0 p-1;
     }
 }
