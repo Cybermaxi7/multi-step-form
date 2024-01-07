@@ -65,7 +65,7 @@ export default function App() {
             </div>
             {/* Form */}
             <form
-                className="max-w-xl rounded-md shadow-2xl px-6 md:px-8 lg:px-16 py-4 md:py-6 lg:py-10 bg-white w-full z-10"
+                className="max-w-xl rounded-md shadow-2xl px-6 md:px-8 lg:px-16 py-4 md:py-6 lg:py-10 bg-white w-[90%] z-10"
                 onSubmit={handleSubmit(onSubmit)}
             >
                 <div className="flex items-center gap-2 text-sm text-gray-700  ">
